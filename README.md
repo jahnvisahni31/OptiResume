@@ -95,6 +95,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - [jahnvi sahni](https://github.com/jahnvisahni31)
 
-Project Link: [https://github.com/yourusername/resume-ai-feedback](https://github.com/yourusername/resume-ai-feedback)
+Project Link: [https://github.com/jahnvisahni31/OptiResume](https://github.com/jahnvisahni31/OptiResume)
